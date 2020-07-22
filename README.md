@@ -5,5 +5,9 @@ In this program Machine Learning is employed in R to perform Topic Modelling. We
 ![plot](Rplot1.png)
 ![wordCloud](RplotMusic.png)
 
+In this GitHub repository I include the data used in file music_survey.csv, program Day1v5_bak.R
+
+Happy reading and experimenting!
+
 
 
